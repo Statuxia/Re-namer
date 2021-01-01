@@ -6,7 +6,7 @@
 
 --------------------
 
-https://youtu.be/Y10iDSATIEs
+Видео: https://youtu.be/Y10iDSATIEs
 
 
 VirusTotal: https://www.virustotal.com/gui/file/f03f45b1fadb54ee808223ac0ea5436eb0809b7530242ad2a48d831a4847bad4/detection - Virustotal exe файла.
